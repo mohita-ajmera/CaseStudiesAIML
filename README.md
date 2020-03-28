@@ -78,9 +78,9 @@ https://booking.ai/learning-to-match-37c11270c4f4*
 **AIML@Grammerly**
 
 *Using AI for Flawless Writing
-https://www.grammarly.com/blog/how-grammarly-uses-ai/
-*
-Using AI to detect the tone and tenor of your writing
+https://www.grammarly.com/blog/how-grammarly-uses-ai/ *
+
+*Using AI to detect the tone and tenor of your writing
 https://venturebeat.com/2019/09/24/grammarly-uses-ai-to-detect-the-tone-and-tenor-of-your-writing/*
 
 
@@ -89,22 +89,18 @@ https://venturebeat.com/2019/09/24/grammarly-uses-ai-to-detect-the-tone-and-teno
 
 **AIML@Instagram**
 
-*Explore recommender system - https://ai.facebook.com/blog/powered-by-ai-instagrams-explore-recommender-system/
-*
+*Explore recommender system - https://ai.facebook.com/blog/powered-by-ai-instagrams-explore-recommender-system/*
 
 <br>
 <br>
 
 **AIML@LInkedin**
 
-*Scaling Machine Learning Productivity 
-https://engineering.linkedin.com/blog/2019/01/scaling-machine-learning-productivity-at-linkedin*
+*Scaling Machine Learning Productivity - https://engineering.linkedin.com/blog/2019/01/scaling-machine-learning-productivity-at-linkedin*
 
-*Detecting and Preventing Abuse on LinkedIn
-https://engineering.linkedin.com/blog/2019/isolation-forest*
+*Detecting and Preventing Abuse on LinkedIn - https://engineering.linkedin.com/blog/2019/isolation-forest*
 
-*Detecting and removing inappropriate profiles
-https://engineering.linkedin.com/blog/2020/keeping-linkedin-professional*
+*Detecting and removing inappropriate profiles - https://engineering.linkedin.com/blog/2020/keeping-linkedin-professional*
 
 
 <br>
