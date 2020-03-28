@@ -77,11 +77,9 @@ https://booking.ai/learning-to-match-37c11270c4f4*
 
 **AIML@Grammerly**
 
-*Using AI for Flawless Writing
-https://www.grammarly.com/blog/how-grammarly-uses-ai/ *
+*Using AI for Flawless Writing - https://www.grammarly.com/blog/how-grammarly-uses-ai/*
 
-*Using AI to detect the tone and tenor of your writing
-https://venturebeat.com/2019/09/24/grammarly-uses-ai-to-detect-the-tone-and-tenor-of-your-writing/*
+*Using AI to detect the tone and tenor of your writing - https://venturebeat.com/2019/09/24/grammarly-uses-ai-to-detect-the-tone-and-tenor-of-your-writing/*
 
 
 <br>
