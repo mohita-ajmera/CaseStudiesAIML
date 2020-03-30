@@ -6,7 +6,7 @@ A list of curated case studies in the field of AI and ML.
 
 **AIML@Google**
 
-*Explore - Identifying Exoplanets with Neural Networks - [https://blog.tensorflow.org/2019/11/identifying-exoplanets-with-neural.html]*
+*Explore - Identifying Exoplanets with Neural Networks - https://blog.tensorflow.org/2019/11/identifying-exoplanets-with-neural.html*
 
 *Health - Detecting hidden signs of anemia from the eye - https://blog.google/technology/health/anemia-detection-retina/*
 
