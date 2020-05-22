@@ -106,3 +106,29 @@ https://booking.ai/learning-to-match-37c11270c4f4*
 
 
 
+**AIML@Domino**
+
+*Predicting Social-Media Influence in the NBA - https://blog.dominodatalab.com/techniques-for-collecting-prepping-and-plotting-data-predicting-social-media-influence-in-the-nba/*
+
+*Exploring US Real Estate Values with Python - https://blog.dominodatalab.com/exploring-us-real-estate-values-with-python/*
+
+*Towards Predictive Accuracy: Tuning Hyperparameters and Pipelines -https://blog.dominodatalab.com/towards-predictive-accuracy-tuning-hyperparameters-and-pipelines/*
+
+
+<br>
+<br>
+
+**AIML@Domino**
+
+*Predicting Social-Media Influence in the NBA - https://blog.dominodatalab.com/techniques-for-collecting-prepping-and-plotting-data-predicting-social-media-influence-in-the-nba/*
+
+*Exploring US Real Estate Values with Python - https://blog.dominodatalab.com/exploring-us-real-estate-values-with-python/*
+
+*Towards Predictive Accuracy: Tuning Hyperparameters and Pipelines -https://blog.dominodatalab.com/towards-predictive-accuracy-tuning-hyperparameters-and-pipelines/*
+
+
+<br>
+<br>
+
+
+
