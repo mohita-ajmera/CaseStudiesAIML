@@ -104,6 +104,18 @@ https://booking.ai/learning-to-match-37c11270c4f4*
 <br>
 <br>
 
+**AIML@InstaCart**
+
+*Experiments and multivariate regression -https://tech.instacart.com/it-all-depends-4bb7b22e854b*
+
+*Building A Data Science Product in 10 Days - https://tech.instacart.com/building-a-data-science-product-in-10-days-d2f4688567b0*
+
+*Modeling the unseen - https://tech.instacart.com/modeling-the-unseen-6a51c9a02430*
+
+
+<br>
+<br>
+
 
 
 **AIML@Domino**
@@ -113,18 +125,6 @@ https://booking.ai/learning-to-match-37c11270c4f4*
 *Exploring US Real Estate Values with Python - https://blog.dominodatalab.com/exploring-us-real-estate-values-with-python/*
 
 *Towards Predictive Accuracy: Tuning Hyperparameters and Pipelines -https://blog.dominodatalab.com/towards-predictive-accuracy-tuning-hyperparameters-and-pipelines/*
-
-
-<br>
-<br>
-
-**AIML@InsaCart**
-
-*Experiments and multivariate regression -https://tech.instacart.com/it-all-depends-4bb7b22e854b*
-
-*Building A Data Science Product in 10 Days - https://tech.instacart.com/building-a-data-science-product-in-10-days-d2f4688567b0*
-
-*Modeling the unseen - https://tech.instacart.com/modeling-the-unseen-6a51c9a02430*
 
 
 <br>
