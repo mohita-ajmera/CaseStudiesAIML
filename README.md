@@ -3,7 +3,6 @@ A list of curated case studies in the field of AI and ML.
 <br>
 <br>
 
-{% include test_topic.html %}
 
 
 **AIML@Google**
