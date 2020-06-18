@@ -3,6 +3,8 @@ A list of curated case studies in the field of AI and ML.
 <br>
 <br>
 
+% include test_topic.html %
+
 
 **AIML@Google**
 
@@ -130,6 +132,6 @@ https://booking.ai/learning-to-match-37c11270c4f4*
 <br>
 <br>
 
-{% include test_topic.html %}
+
 
 
