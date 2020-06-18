@@ -1,1 +1,0 @@
-- [Link to test map](https://mohita-ajmera.github.io/CaseStudiesAIML/test_topic.html)
