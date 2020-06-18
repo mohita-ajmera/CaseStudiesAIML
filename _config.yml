@@ -1,1 +1,5 @@
 theme: jekyll-theme-cayman
+
+layout: page
+title: "Topic_Modelling"
+permalink: https://mohita-ajmera.github.io/CaseStudiesAIML/test_topic
